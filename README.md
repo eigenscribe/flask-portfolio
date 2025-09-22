@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with Flask, featuring glassmorphism design and dark/light mode toggle.
 
+Created originally on figma
+
 ## Features
 
 - 🎨 **Glassmorphism Design**: Beautiful translucent cards with backdrop blur effects
@@ -24,7 +26,7 @@ A modern, responsive portfolio website built with Flask, featuring glassmorphism
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/lshriver/flask-portfolio.git
+git clone https://github.com/eigenscribe/flask-portfolio.git
 cd flask-portfolio
 ```
 
